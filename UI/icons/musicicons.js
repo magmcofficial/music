@@ -11,7 +11,7 @@ const musicIcons = {
     stopIcon: 'https://cdn.discordapp.com/emojis/1021628438441902100.gif',
     volumeIcon: 'https://cdn.discordapp.com/emojis/1040824501711159397.gif',
     playlistIcon : 'https://cdn.discordapp.com/emojis/1096444591982522498.gif',
-    heartIcon : 'https://cdn.discordapp.com/emojis/900257798003240961.gif',
+    heartIcon : 'https://cdn.discordapp.com/attachments/1281974737102442619/1300428560175206442/km_yts0_360p_12f_20241028_022053.gif?ex=6720cdf9&is=671f7c79&hm=b1254179c4ee0f53c48dae286954914f6b96993e487c2b8a4468392903e18170&',
     pingIcon : 'https://cdn.discordapp.com/emojis/923089856752664576.gif',
     CheckmarkIcon: "https://cdn.discordapp.com/emojis/819446784647757834.gif",
     MusicIcon:"https://cdn.discordapp.com/emojis/763415718271385610.gif",
