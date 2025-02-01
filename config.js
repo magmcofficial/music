@@ -9,7 +9,7 @@ module.exports = {
   commandsDir: './commands',  
   embedColor: "#1db954",
   activityName: "YTS Music", 
-  activityType: "PLAYING",  // Available activity types : LISTENING , PLAYING
+  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://dsc.gg/magmc",
   embedTimeout: 5, 
   errorLog: "", 
