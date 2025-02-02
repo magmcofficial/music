@@ -75,9 +75,11 @@ function initializePlayer(client) {
         const trackUri = track.info.uri;
         const requester = requesters.get(trackUri);
 
-        try {
+        
+try {
         const musicard = await Classic({
             thumbnail: track.info.thumbnail || 'https://example.com/default_thumbnail.png',
+            background: '#A00101',
             backgroundImage: "https://cdn.discordapp.com/attachments/1129757485973123092/1335572774986715196/musicard.png?ex=67a0a893&is=679f5713&hm=77ed6ad43c6364bedbfed0fcaabee18a3e7e26bf4b4306f9d979664bbfb23ea5&",
             title: track.info.title,
             author: track.info.author || 'Unknown Artist',
@@ -366,4 +368,4 @@ function createActionRow2(disabled) {
         );
 }
 
-module.exports = { initializePlayer };
+module.exports = { initializePlayer };
